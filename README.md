@@ -1,3 +1,19 @@
+## NLIC Bookstore – React Frontend
+
+React-based front-end application integrated with an Express/Node.js REST API.
+
+### Features
+- Product CRUD operations
+- Image support
+- Responsive UI with Bootstrap
+- Scroll-based branding animation
+
+### Tech Stack
+- React (Vite + TypeScript)
+- Axios
+- Bootstrap
+- Express REST API
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
